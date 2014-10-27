@@ -5,6 +5,7 @@ class Fqtl
     protected $_instance = null;
 
     protected $_methods = [];
+    protected $_data    = [];
     
     protected function __construct(){}
     
